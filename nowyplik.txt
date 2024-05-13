@@ -4,3 +4,4 @@ trzy
 cztery
 pięć
 featurezmiana masterzmiana
+jeszcze jedna zmiana
