@@ -5,3 +5,5 @@ cztery
 pięć
 featurezmiana masterzmiana
 jeszcze jedna zmiana
+
+Paweu zmiana
