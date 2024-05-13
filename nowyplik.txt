@@ -7,3 +7,5 @@ featurezmiana masterzmiana
 jeszcze jedna zmiana
 
 Paweu zmiana
+feature zmiana
+ffeature zmiana dwa
