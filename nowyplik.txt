@@ -3,5 +3,7 @@ dwa
 trzy
 cztery
 pięć
+featurezmiana masterzmiana
+jeszcze jedna zmiana
 feature zmiana
 ffeature zmiana dwa
